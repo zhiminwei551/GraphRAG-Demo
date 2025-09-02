@@ -1,5 +1,11 @@
 [English](README.md) | 简体中文
 
+## 项目演示
+
+![文档演示](README.assets/documents_demo.png)
+
+![对话演示](README.assets/chat_demo.png)
+
 ## 环境要求
 
 - **操作系统**: Ubuntu 24.04
@@ -58,11 +64,4 @@ streamlit run app.py
 运行命令后，打开您的浏览器并访问以下地址：
 
 **`http://localhost:8501`**
-
-## 项目演示
-
-![文档演示](README.assets/documents_demo.png)
-
-![对话演示](README.assets/chat_demo.png)
-
 

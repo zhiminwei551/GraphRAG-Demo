@@ -1,5 +1,11 @@
 English | [简体中文](README-zh.md)
 
+## Project Demo
+
+![documents_demo](README.assets/documents_demo.png)
+
+![chat_demo](README.assets/chat_demo.png)
+
 ## Prerequisites
 
 - **OS**: Ubuntu 24.04
@@ -58,11 +64,4 @@ streamlit run app.py
 After running the command, open your web browser and navigate to the following address:
 
 **`http://localhost:8501`**
-
-## Project Demo
-
-![documents_demo](README.assets/documents_demo.png)
-
-![chat_demo](README.assets/chat_demo.png)
-
 
