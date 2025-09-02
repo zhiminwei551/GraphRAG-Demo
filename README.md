@@ -8,6 +8,8 @@
 
 ![chat_demo](README.assets/chat_demo.png)
 
+![subgraph_demo](README.assets/subgraph_demo.png)
+
 ## Prerequisites
 
 - **OS**: Ubuntu 24.04

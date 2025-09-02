@@ -8,6 +8,8 @@
 
 ![对话演示](README.assets/chat_demo.png)
 
+![子图演示](README.assets/subgraph_demo.png)
+
 ## 环境要求
 
 - **操作系统**: Ubuntu 24.04
