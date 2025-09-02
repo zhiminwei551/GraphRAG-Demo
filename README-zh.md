@@ -1,4 +1,6 @@
-[English](README.md) | 简体中文
+<div align="center">
+    <a href="README.md">English</a> | 简体中文
+</div>
 
 ## 项目演示
 
