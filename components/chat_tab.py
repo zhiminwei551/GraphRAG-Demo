@@ -119,12 +119,13 @@ def render_chat_tab(mode):
                     """, unsafe_allow_html=True)
                     
                     if a:
+                        a = "\n" + a
                         st.markdown(f"""
-                        <div style="display: flex; justify-content: flex-start; margin-bottom: 0.5rem;">
-                            <div style="background: #f1f5f9; color: #020617; padding: 0.5rem 1rem; border-radius: 18px; border-bottom-left-radius: 4px; max-width: 70%; font-size: 0.9rem;">
-                                {a}
+                            <div style="display: flex; justify-content: flex-start; margin-bottom: 0.5rem;">
+                                <div style="background: #f1f5f9; color: #020617; padding: 0.5rem 1rem; border-radius: 18px; border-bottom-left-radius: 4px; max-width: 70%; font-size: 0.9rem;">
+                                    {a}
+                                </div>
                             </div>
-                        </div>
                         """, unsafe_allow_html=True)
                 
                 if st.session_state.processing_query and st.session_state.pending_query:
