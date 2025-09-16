@@ -5,7 +5,6 @@ from components.documents_tab import render_documents_tab
 
 st.set_page_config(
     page_title="GraphRAG Demo",
-    page_icon="assets/icon.png",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
