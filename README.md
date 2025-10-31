@@ -2,7 +2,7 @@
     English | <a href="README-zh.md">简体中文</a>
 </div>
 
-## Project Demo
+## 🚀 Project Demo
 
 https://github.com/user-attachments/assets/5d0c4114-a24a-4c73-a557-043c2c7872f7
 
@@ -12,13 +12,13 @@ https://github.com/user-attachments/assets/5d0c4114-a24a-4c73-a557-043c2c7872f7
 
 ![subgraph_demo](README.assets/subgraph_demo.png)
 
-## Prerequisites
+## 📋 Prerequisites
 
 - **OS**: Ubuntu 24.04
 - **Python**: 3.10
 - **Package Manager**: Conda
 
-## Setup & Installation
+## 🛠️ Setup & Installation
 
 Follow these steps to set up the project environment.
 
@@ -53,13 +53,10 @@ Follow these steps to set up the project environment.
     Add your OpenAI API key to your shell configuration file. This command will append it to your `.bashrc`.
 
     ```bash
-    echo 'export OPENAI_API_KEY="sk-xxx"' >> ~/.bashrc
-    source ~/.bashrc
+    echo 'export OPENAI_API_KEY="sk-xxx"' >> ~/.bashrc && source ~/.bashrc
     ```
-    
-    > **Note**: Remember to restart your terminal or run `source ~/.bashrc` for the changes to take effect.
 
-## Running the Project
+## ▶️ Running the Project
 
 Once the setup is complete, you can run the application using Streamlit.
 

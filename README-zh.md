@@ -2,7 +2,7 @@
     <a href="README.md">English</a> | 简体中文
 </div>
 
-## 项目演示
+## 🚀 项目演示
 
 https://github.com/user-attachments/assets/7976d12e-1afb-4d72-9409-59ed46880cef
 
@@ -12,13 +12,13 @@ https://github.com/user-attachments/assets/7976d12e-1afb-4d72-9409-59ed46880cef
 
 ![子图演示](README.assets/subgraph_demo.png)
 
-## 环境要求
+## 📋 环境要求
 
 - **操作系统**: Ubuntu 24.04
 - **Python 版本**: 3.10
 - **包管理器**: Conda
 
-## 安装与设置
+## 🛠️ 安装与设置
 
 请遵循以下步骤来设置项目运行环境。
 
@@ -53,13 +53,10 @@ https://github.com/user-attachments/assets/7976d12e-1afb-4d72-9409-59ed46880cef
     将您的 OpenAI API 密钥添加到 Shell 配置文件中。以下命令会自动将其追加到 `.bashrc` 文件。
 
     ```bash
-    echo 'export OPENAI_API_KEY="sk-xxx"' >> ~/.bashrc
-    source ~/.bashrc
+    echo 'export OPENAI_API_KEY="sk-xxx"' >> ~/.bashrc && source ~/.bashrc
     ```
 
-    > **提示**: 请记得重启您的终端，或运行 `source ~/.bashrc` 来使环境变量生效。
-
-## 运行项目
+## ▶️ 运行项目
 
 完成所有设置后，您可以使用 Streamlit 来运行此应用。
 
