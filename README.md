@@ -4,6 +4,8 @@
 
 ## Project Demo
 
+https://github.com/user-attachments/assets/5d0c4114-a24a-4c73-a557-043c2c7872f7
+
 ![documents_demo](README.assets/documents_demo.png)
 
 ![chat_demo](README.assets/chat_demo.png)
