@@ -4,6 +4,8 @@
 
 ## 项目演示
 
+https://github.com/user-attachments/assets/7976d12e-1afb-4d72-9409-59ed46880cef
+
 ![文档演示](README.assets/documents_demo.png)
 
 ![对话演示](README.assets/chat_demo.png)
